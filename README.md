@@ -1,11 +1,14 @@
 # Hello spring-boot-sample-web-jsp
 
-### ´ò°ü 
-1.´ò³É¿É·ÅÖÃµ½tomcatÈİÆ÷ÖĞwar°ü£ºmvn package
+### æ‰“åŒ… 
+1.æ‰“æˆå¯æ”¾ç½®åˆ°tomcatå®¹å™¨ä¸­waråŒ…ï¼šmvn package
 
-2.´ò³É¿É¶ÀÁ¢ÔËĞĞµÄjar£º
- °Ñspring-boot-starter-tomcatÓëorg.apache.tomcat.embedÒÀÀµµÄproviedÊôĞÔÈ¥µô;
- `<packaging>war</packaging>` ¸Ä³É `<packaging>jar</packaging>`;
+2.æ‰“æˆå¯ç‹¬ç«‹è¿è¡Œçš„jarï¼š
+ æŠŠspring-boot-starter-tomcatä¸org.apache.tomcat.embedä¾èµ–çš„proviedå±æ€§å»æ‰;
+ `<packaging>war</packaging>` æ”¹æˆ `<packaging>jar</packaging>`;
  mvn package ;
- ÔËĞĞ£ºjava -jar xxxxx.jar
+ è¿è¡Œï¼šjava -jar xxxxx.jar
+ 
+ **è§†é¢‘è®²è§£**
+ [Spring-Bootä»‹ç»åŠç¤ºä¾‹è®²è§£](http://www.tudou.com/programs/view/i7mhoXilIAk/)
  
